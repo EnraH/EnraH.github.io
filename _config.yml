@@ -1,3 +1,4 @@
 name: a|r|n|e
 markdown: redcarpet
 pygments: true
+pagination: 5
