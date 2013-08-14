@@ -69,8 +69,11 @@ header {
       text-align: left;
       float: right;
 /*      line-height: 50px;*/
+      /*TODO: insert background with gradient*/
       margin-top: 5px;
       margin-right: 5px;
+      margin-left: 400px;
+      position: fixed;
     }
     header ul.navigation li {
       display: inline-block;
