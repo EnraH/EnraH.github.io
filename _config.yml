@@ -1,4 +1,6 @@
 name: a|r|n|e
 markdown: redcarpet
+redcarpet:
+  extensions: [footnotes]
 pygments: true
 pagination: 5
