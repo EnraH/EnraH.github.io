@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Erste Woche in Windhoek"
-date:   2013-08-06 10:28:47
+date:   2013-07-21 10:28:47
 categories: Namibia
 ---
 
