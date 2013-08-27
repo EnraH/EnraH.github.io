@@ -44,7 +44,7 @@ header {
    height: 100px;
    margin: 0 0px 0 0px;
 /*   color: #ccc;*/
-   background-image: url("../res/header.JPG");
+   background-image: url("/res/header.JPG");
    background-repeat: no-repeat;
    border-bottom-right-radius: 5px;
    border-bottom-left-radius: 5px;

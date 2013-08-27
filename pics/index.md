@@ -5,5 +5,6 @@ title: Pictures
 ---
 
 # Waterberg
-
-<a href="waterberg_01.JPG" data-lightbox="image-1" title="Waterberg">image #1</a>
+<a href="/pics/waterberg/DSCF5609.JPG" data-lightbox="roadtrip">image #2</a>
+<a href="/pics/waterberg/DSCF5655.JPG" data-lightbox="roadtrip">image #3</a>
+<a href="/pics/waterberg/DSCF5660.JPG" data-lightbox="roadtrip">image #4</a>
