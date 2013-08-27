@@ -5,7 +5,7 @@ date:   2013-07-21 10:28:47
 categories: Namibia
 ---
 
-![Sonnenaufgang vom Bett](pics/DSCF5303.JPG=160x160)
+![Sonnenaufgang vom Bett](pics/DSCF5303.JPG =160x160)
 
 Vergangenen Montag bin ich in Windhoek angekommen. Nun will ich über meine ersten Eindrücke, wie ich hier lebe, arbeite und was ich sonst noch so mache, schreiben. [^1]
 
