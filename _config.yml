@@ -1,9 +1,9 @@
 name: a|r|n|e
 markdown: rdiscount
 rdiscount:
- #  extensions:
- #      - autolink      # greedily urlify links
- #      - footnotes     # footnotes
- #      - smart         # typographic substitutions with SmartyPants
+  extensions:
+      - autolink      # greedily urlify links
+      - footnotes     # footnotes
+      - smart         # typographic substitutions with SmartyPants
 pygments: true
 pagination: 5
