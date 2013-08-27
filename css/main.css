@@ -87,7 +87,7 @@ header {
     font-size: 11px;
   }
   header ul.navigation li a:hover { color: #000; text-decoration: none; }
-  header ul.navigation li a.active { font-weight:bold; color:black; }
+  header ul.navigation li a.active { color:black; }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
