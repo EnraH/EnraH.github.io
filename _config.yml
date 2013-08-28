@@ -6,4 +6,5 @@ rdiscount:
       - footnotes     # footnotes
       - smart         # typographic substitutions with SmartyPants
 pygments: true
+baseurl: /_site/
 pagination: 5
