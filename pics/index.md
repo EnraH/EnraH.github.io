@@ -7,6 +7,8 @@ title: Pictures
 # pictures
 
 ## Waterberg
-<a href="/pics/waterberg/DSCF5609.JPG" data-lightbox="roadtrip"><img src="/pics/waterberg/thumbs/DSCF5609.JPG" width="100px"</a>
-<a href="/pics/waterberg/DSCF5655.JPG" data-lightbox="roadtrip"><img src="/pics/waterberg/thumbs/DSCF5655.JPG" width="100px"></a>
-<a href="/pics/waterberg/DSCF5660.JPG" data-lightbox="roadtrip"><img src="/pics/waterberg/thumbs/DSCF5660.JPG" width="100px"></a>
+<div class="pics">
+<a href="/pics/waterberg/DSCF5609.JPG" data-lightbox="roadtrip"><img src="/pics/waterberg/thumbs/DSCF5609.JPG"></a>
+<a href="/pics/waterberg/DSCF5655.JPG" data-lightbox="roadtrip"><img src="/pics/waterberg/thumbs/DSCF5655.JPG"></a>
+<a href="/pics/waterberg/DSCF5660.JPG" data-lightbox="roadtrip"><img src="/pics/waterberg/thumbs/DSCF5660.JPG"></a>
+</div>
