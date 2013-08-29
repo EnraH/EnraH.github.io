@@ -35,7 +35,7 @@ div.figure p {
   font-size: smaller;
   text-indent: 0;
 }
-img {
+div.post img {
   width: 100%;
 }
 
@@ -192,5 +192,7 @@ div.contact a {color:#888;}
 div.contact a:hover, a:active {color: #000};
 
 div.pics img {
-   width:100px;
+   width: 100px;
 }
+
+div.pics a {border: 0px;}
