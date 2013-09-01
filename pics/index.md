@@ -12,3 +12,7 @@ title: Pictures
 <a href="/pics/waterberg/DSCF5655.JPG" data-lightbox="roadtrip"><img src="/pics/waterberg/thumbs/DSCF5655.JPG" width="100px"></a>
 <a href="/pics/waterberg/DSCF5660.JPG" data-lightbox="roadtrip"><img src="/pics/waterberg/thumbs/DSCF5660.JPG" width="100px"></a>
 </div>
+
+## Sandboarding in Swakop
+
+<a href="/pics/130823_SWK/(1).JPG" data-lightbox="roadtrip"><img src="/pics/130823_SWK/(1).JPG" width="100px"></a>
