@@ -5,7 +5,7 @@ date:   2013-07-21 10:28:47
 categories: Namibia
 ---
 
-![Sonnenaufgang vom Bett](pics/DSCF5303.JPG =160x160)
+![Sonnenaufgang vom Bett](pics/first_week/DSCF5303.JPG =160x160)
 
 Vergangenen Montag bin ich in Windhoek angekommen. Nun will ich über meine ersten Eindrücke, wie ich hier lebe, arbeite und was ich sonst noch so mache, schreiben. [^1]
 
@@ -18,7 +18,7 @@ Vor meiner Ankunft hatte ich nur zwar nur eine wage Ahnung von meiner neuen Unte
 
 Leider wird es im Winter in Namibia recht [kalt](http://www.wetter.net/cgi-bin/wetter-net3/wetter-stadt-graph.pl?IDM=0&ID=9476&ALIAS=Windhoek&ID2=0&REGIO=0), sobald die Sonne untergegangen ist (und so sitze ich hier mit Jacke in meinem unbeheizten Zimmer).
 
-![Klein-Windhoek](pics/DSCF5334.JPG)
+![Klein-Windhoek](pics/first_week/DSCF5334.JPG)
 
 ## Arbeitsplatz bei der GIZ
 
@@ -28,9 +28,9 @@ Ausserdem ist gerade eine Prüfkommission in Windhoek, die das aktuelle PEG Prog
 
 Die GIZ ist in Windhoek sehr stark vertreten. Infolgedessen sind hier auch viele deutsche Praktikanten. Einen großen Teil habe ich am Wochenende kennengelernt, als wir gemeinsam in Windhoek um die Häuser gezogen sind. 
 
-![Biken auf Schotterpiste](pics/DSCF5382.JPG)
+![Biken auf Schotterpiste](pics/first_week/DSCF5382.JPG)
 
-![Berge und Singletrail um Windhoek](pics/DSCF5393.JPG)
+![Berge und Singletrail um Windhoek](pics/first_week/DSCF5393.JPG)
 
 ## Biken in Windhoek
 
