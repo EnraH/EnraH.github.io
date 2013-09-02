@@ -15,6 +15,7 @@ title: Pictures
 
 ## Etosha
 
+<div class="pics">
 <a href="/pics/1308_Etosha/DSCF00768.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/DSCF00768.JPG" width="100px"></a>
 <a href="/pics/1308_Etosha/DSCF00807.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/DSCF00807.JPG" width="100px"></a>
 <a href="/pics/1308_Etosha/DSCF5696.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/DSCF5696.JPG" width="100px"></a>
@@ -24,11 +25,13 @@ title: Pictures
 <a href="/pics/1308_Etosha/DSCF5776.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/DSCF5776.JPG" width="100px"></a>
 <a href="/pics/1308_Etosha/DSCF5792.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/DSCF5792.JPG" width="100px"></a>
 <a href="/pics/1308_Etosha/DSCF5799.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/DSCF5799.JPG" width="100px"></a>
-
+</div>
 
 ## Sandboarding in Swakop
 
+<div class="pics">
 <a href="/pics/130823_SWK/(1).JPG" data-lightbox="roadtrip"><img src="/pics/130823_SWK/(1).JPG" width="100px"></a>
 <a href="/pics/130823_SWK/(12).JPG" data-lightbox="roadtrip"><img src="/pics/130823_SWK/(12).JPG" width="100px"></a>
 <a href="/pics/130823_SWK/(13).JPG" data-lightbox="roadtrip"><img src="/pics/130823_SWK/(13).JPG" width="100px"></a>
 <a href="/pics/130823_SWK/(21).JPG" data-lightbox="roadtrip"><img src="/pics/130823_SWK/(21).JPG" width="100px"></a>
+</div>
