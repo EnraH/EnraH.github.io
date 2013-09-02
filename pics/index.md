@@ -25,6 +25,12 @@ title: Pictures
 <a href="/pics/1308_Etosha/DSCF5776.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/DSCF5776.JPG" width="100px"></a>
 <a href="/pics/1308_Etosha/DSCF5792.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/DSCF5792.JPG" width="100px"></a>
 <a href="/pics/1308_Etosha/DSCF5799.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/DSCF5799.JPG" width="100px"></a>
+<a href="/pics/1308_Etosha/DSCF5803.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/DSCF5803.JPG" width="100px"></a>
+<a href="/pics/1308_Etosha/SAM_7699.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/SAM_7699.JPG" width="100px"></a>
+<a href="/pics/1308_Etosha/SAM_8003.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/SAM_8003.JPG" width="100px"></a>
+<a href="/pics/1308_Etosha/SAM_8072.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/SAM_8072.JPG" width="100px"></a>
+<a href="/pics/1308_Etosha/SAM_8199.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/SAM_8199.JPG" width="100px"></a>
+<a href="/pics/1308_Etosha/SAM_8195.JPG" data-lightbox="roadtrip"><img src="/pics/1308_Etosha/SAM_8195.JPG" width="100px"></a>
 </div>
 
 ## Sandboarding in Swakop
