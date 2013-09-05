@@ -168,6 +168,11 @@ div.content h1{
    font-weight: normal;
 }
 
+div.content h2{
+   font-size: 200%;
+   font-weight: normal;
+}
+
 /*div.body a:hover,a:active {}*/
 
 div.post info {
