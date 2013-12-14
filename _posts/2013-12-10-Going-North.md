@@ -34,4 +34,10 @@ Die darauffolgenden Tag sind wir Richtung Osten nach Ruacana gefahren. Ein Teil 
 
 Von Ruacana sind wir weiter nach Oshakati gefahren. Dort haben wir Kollegen aus dem PEG-Programme, in dem ich arbeite, getroffen.
 
+
+![Diskussion](/pics/1312_trip_north/discussions.JPG)
+
+Der Trip hat wieder Spass gemacht. Besonders war wohl wie viel wir im Auto diskutiert haben --- insbesondere über die Entwicklungszusammenarbeit und die GIZ.
+
+
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.na/maps?f=d&amp;source=s_d&amp;saddr=Windhoek&amp;daddr=Omaruru,+Erongo+to:Ozondati,+Erongo+to:Palmwag,+Kunene+to:Opuwo,+Kunene+to:Epupa+Falls+to:D3701+to:Ruacana,+Omusati+to:Oshakati,+Oshana+to:Namutoni,+Oshikoto+to:Okaukuejo,+Oshikoto+to:Outjo+to:Otjiwarongo,+Otjozondjupa+to:Windhoek&amp;geocode=FUjHp_4dcagEASntAQyzXBsLHDE7XUTMQEm45A%3BFdzpuP4dJGXzACl3hTYMh_KKGzFXDHw0nK-dOg%3BFeigv_4dEArqACmbZCsvgMWLGzH9-t5vnz6EdA%3BFZxB0P4dlFjVACm7RpBKSAyPGzFjm3I-nF8kPg%3BFXx-7P4drDDTACmPLBFbS5KQGzG07MM2J7ncMA%3BFcCZ_P4d0C3KAClNuDhE2ciZGzHWZuJwQEL1BQ%3BFXdk9_4dElLTAA%3BFZny9f4dLpbbAClPrp5fDtaWGzEAMUD1Nxof0w%3BFdCk8P4dyI3vACkzeAFoVp-TGzFylxnnDmSJeg%3BFbgE4f4dAH0CASmfYLz6lJ_yGzGzT0Q-HYzpqg%3BFTGJ2_4dPODyACnXZmhwWnKNGzFD3cS9hqxW2w%3BFacpzf4dYoD2ACmf8HqMzJeMGzF_XgT6O5Wkdg%3BFdm9x_4d6hn-ACnZfkJYFK70GzFS1KGTBvFIfA%3BFUjHp_4dcagEASntAQyzXBsLHDE7XUTMQEm45A&amp;aq=&amp;sll=-19.781647,15.102061&amp;sspn=7.521585,11.634521&amp;hl=en&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=-19.781647,15.102061&amp;spn=5.558258,3.964437&amp;output=embed"></iframe><br />
