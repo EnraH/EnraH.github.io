@@ -19,6 +19,8 @@ Als ich in der Nacht aus dem Dachzelt steigen wollte um auf die Toilette zu gehe
 
 ## Epupa Falls
 
+![Vor den Epupa Falls](/pics/1312_trip_north/group_epupa.JPG)
+
 Das erklärte Ziel unserer Reise, die Epupa Fälle an der Grenze zu Angola, haben wir am zweiten Tag erreicht. An den [Epupa Falls](http://en.wikipedia.org/wiki/Epupa_Falls) fällt der Kunene River durch eine Spalte 37m hinunter. Das ist schon recht eindrücklich. Mitten in der kargen Landschaft stehen dann auch auf einmal Palmen am Ufer des Flusses. Im Fluss soll es auch viele Krokodile geben, die wir leider nicht zu Gesicht bekommen haben. Vom Schwimmen im Fluss wird jedenfalls ausdrücklich abgeraten.
 Da die Fälle etwas abgelegen sind, kommen dort nur wenige Touristen hin, besonders  nun, am Beginn der Regenzeit.
 
@@ -29,5 +31,7 @@ Da die Fälle etwas abgelegen sind, kommen dort nur wenige Touristen hin, besond
 Die darauffolgenden Tag sind wir Richtung Osten nach Ruacana gefahren. Ein Teil der Strecke führt am Fluss entlang und ist recht abenteuerlich. Kurz vor Ruacana mussten wir durch einen Fluss fahren. Wir haben dort etwas gezögert und schließlich einen Local um Rat gebeten. Der ist dann kurzerhand mit seinem Auto vorausgefahren und hat uns gezeigt wo man am besten durchkommt. 
 
 ![Fluss Durchquerung](/pics/1312_trip_north/car_watch.JPG)
+
+
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.na/maps?f=d&amp;source=s_d&amp;saddr=Windhoek&amp;daddr=Omaruru,+Erongo+to:Ozondati,+Erongo+to:Palmwag,+Kunene+to:Opuwo,+Kunene+to:Epupa+Falls+to:D3701+to:Ruacana,+Omusati+to:Oshakati,+Oshana+to:Namutoni,+Oshikoto+to:Okaukuejo,+Oshikoto+to:Outjo+to:Otjiwarongo,+Otjozondjupa+to:Windhoek&amp;geocode=FUjHp_4dcagEASntAQyzXBsLHDE7XUTMQEm45A%3BFdzpuP4dJGXzACl3hTYMh_KKGzFXDHw0nK-dOg%3BFeigv_4dEArqACmbZCsvgMWLGzH9-t5vnz6EdA%3BFZxB0P4dlFjVACm7RpBKSAyPGzFjm3I-nF8kPg%3BFXx-7P4drDDTACmPLBFbS5KQGzG07MM2J7ncMA%3BFcCZ_P4d0C3KAClNuDhE2ciZGzHWZuJwQEL1BQ%3BFXdk9_4dElLTAA%3BFZny9f4dLpbbAClPrp5fDtaWGzEAMUD1Nxof0w%3BFdCk8P4dyI3vACkzeAFoVp-TGzFylxnnDmSJeg%3BFbgE4f4dAH0CASmfYLz6lJ_yGzGzT0Q-HYzpqg%3BFTGJ2_4dPODyACnXZmhwWnKNGzFD3cS9hqxW2w%3BFacpzf4dYoD2ACmf8HqMzJeMGzF_XgT6O5Wkdg%3BFdm9x_4d6hn-ACnZfkJYFK70GzFS1KGTBvFIfA%3BFUjHp_4dcagEASntAQyzXBsLHDE7XUTMQEm45A&amp;aq=&amp;sll=-19.781647,15.102061&amp;sspn=7.521585,11.634521&amp;hl=en&amp;dirflg=w&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=-19.781647,15.102061&amp;spn=5.558258,3.964437&amp;output=embed"></iframe><br />
