@@ -32,10 +32,13 @@ Die darauffolgenden Tag sind wir Richtung Osten nach Ruacana gefahren. Ein Teil 
 
 ![Fluss Durchquerung](/pics/1312_trip_north/car_watch.JPG)
 
-Von Ruacana sind wir weiter nach Oshakati gefahren. Dort haben wir Kollegen aus dem PEG-Programme, in dem ich arbeite, getroffen.
+Von Ruacana sind wir weiter nach Oshakati gefahren. Dort haben wir Kollegen aus dem PEG-Programme, in dem ich arbeite, getroffen. Am folgenden Tag sind wir durch den Etosha Richtung Windhoek zurückgefahren.
 
+Am dritten und vierten Tag hat es recht viel geregnet. In Namibia ist das gutes Wetter --- insbesondere wegen der lang anhaltenden [Dürre](http://reliefweb.int/report/namibia/worst-drought-generation-namibia-puts-half-population-crisis). 
 
-![Diskussion](/pics/1312_trip_north/discussions.JPG)
+![Gutes Wetter](/pics/1312_trip_north/good_weather.JPG "Gutes Wetter")
+
+![Diskussion](/pics/1312_trip_north/discussions.JPG "trip discussions")
 
 Der Trip hat wieder Spass gemacht. Besonders war wohl wie viel wir im Auto diskutiert haben --- insbesondere über die Entwicklungszusammenarbeit und die GIZ.
 
